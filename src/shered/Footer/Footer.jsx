@@ -1,8 +1,8 @@
-
 import { FaFacebookF } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
 import { IoLogoTwitter } from "react-icons/io";
-import { Link } from "react-router-dom"; const Footer = () => {
+import { Link } from "react-router-dom";
+const Footer = () => {
     return (
         <div>
             <div className="flex items-center flex-col lg:flex-row justify-between">
