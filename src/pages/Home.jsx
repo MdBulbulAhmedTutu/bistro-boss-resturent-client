@@ -1,7 +1,10 @@
+import Carusel from "../components/carusel/Carusel";
+
+
 const Home = () => {
     return (
         <div>
-            <h2 className="text-4xl">this is home page</h2>
+            <Carusel></Carusel>
         </div>
     );
 };
